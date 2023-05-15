@@ -1,0 +1,12 @@
+.modal {
+  background-color: white;
+  box-shadow: 5px 5px 0px rgba(0, 0, 0, 0.25);
+  border-color: #252525;
+  display: block;
+  margin-top: 10dvh;
+  margin-left: 10vw;
+  margin-right: 20vw;
+  width: calc(100vw - 20vw);
+  padding: 1.5rem;
+  height: inherit;
+}

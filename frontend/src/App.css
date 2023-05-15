@@ -1,0 +1,40 @@
+main {
+    min-height: calc(100dvh - 168px);
+}
+
+.Home{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    right: 0%;
+    top: 0%;
+    z-index: 1; 
+}
+
+.box{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 2em;
+    /* position: absolute; */
+    border-radius: 10px;
+    /* border: rgba(0, 0, 0, 0.5) solid 0.5px; */
+    /* width: 50%;
+    height: 30%; */
+    /* top: 30%;
+    left: 50%; */
+    /* transform: translate(-50%, -50%); */
+}
+
+/* .b{
+    background: #ffc107;
+    font-weight: bold;
+    text-align: center;
+    border-width: 0;
+    width: 210px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+} */
