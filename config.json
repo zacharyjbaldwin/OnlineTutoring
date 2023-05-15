@@ -1,0 +1,9 @@
+{
+    "JWT_SECRET": "",
+    "MONGO_DB_CONNECTION_STRING": "",
+    "SENDGRID_API_KEY": "",
+    "ZOOM": {
+        "API_KEY": "",
+        "SECRET": ""
+    }
+}
